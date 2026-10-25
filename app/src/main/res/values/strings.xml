@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">buttonTest</string>
+    <string name="test">Тест</string>
+    <string name="result">Завершить</string>
+
+    <string name="question1Radio">1. Какой метод вызывается при первом создании Activity?</string>
+    <string name="q1a1"> onStart()</string>
+    <string name="q1a2"> onCreate()</string>
+    <string name="q1a3"> onResume()</string>
+    <string name="q1a4"> onPause()</string>
+
+    <string name="question2Check">2. Какие файлы находятся в папке res/? (Выберите все верные)</string>
+    <string name="q2a1">layout/</string>
+    <string name="q2a2">MainActivity.java</string>
+    <string name="q2a3">drawable/</string>
+    <string name="q2a4">values/</string>
+
+    <string name="question3Radio">3. Что выведет System.out.println(5 + 5 + "5")?</string>
+    <string name="q3a1">555/</string>
+    <string name="q3a2">15</string>
+    <string name="q3a3">105</string>
+    <string name="q3a4">Ошибку</string>
+
+    <string name="question4Check">4. Какие языки используются для разработки в AndroidStudio?</string>
+    <string name="q4a1">Kotlin</string>
+    <string name="q4a2">Java</string>
+    <string name="q4a3">C++</string>
+    <string name="q4a4">Python</string>
+
+    <string name="question5Toggle">5. String — это примитивный тип данных в Java</string>
+    <string name="q5a1">Да</string>
+    <string name="q5a2">Нет</string>
+
+</resources>

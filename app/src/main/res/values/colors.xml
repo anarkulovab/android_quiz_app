@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#6A82DEA0</color>
+    <color name="pink">#7B498A</color>
+    <color name="back">#A0EBA091</color>
+    <color name="blue">#A091C0EB</color>
+    <color name="grade_5">#5EA861</color>
+    <color name="grade_4">#296089</color>
+    <color name="grade_3">#B37D66</color>
+    <color name="grade_2">#9B4C46</color>
+</resources>
