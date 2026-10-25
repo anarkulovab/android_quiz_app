@@ -4,8 +4,8 @@
 
 ## Скриншоты
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="screenshots/1.png" width="400" alt="1" />
-  <img src="screenshots/2.png" width="400" alt="2" />
+  <img src="screenshots/1.png" width="300" alt="1" />
+  <img src="screenshots/2.png" width="300" alt="2" />
 </div>
 
 
